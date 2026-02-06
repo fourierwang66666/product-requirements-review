@@ -46,7 +46,7 @@
 
 ```bash
 # 克隆到 Cursor 全局 skills 目录
-git clone https://github.com/<your-username>/product-requirements-review.git \
+git clone https://github.com/fourierwang66666/product-requirements-review.git \
   ~/.cursor/skills/product-requirements-review
 ```
 
@@ -54,7 +54,7 @@ git clone https://github.com/<your-username>/product-requirements-review.git \
 
 ```bash
 # 克隆到项目的 .cursor/skills 目录
-git clone https://github.com/<your-username>/product-requirements-review.git \
+git clone https://github.com/fourierwang66666/product-requirements-review.git \
   .cursor/skills/product-requirements-review
 ```
 
@@ -113,14 +113,14 @@ Clarify → Essence Analysis → Competitor Research → Tech Assessment → Go/
 #### Global (recommended)
 
 ```bash
-git clone https://github.com/<your-username>/product-requirements-review.git \
+git clone https://github.com/fourierwang66666/product-requirements-review.git \
   ~/.cursor/skills/product-requirements-review
 ```
 
 #### Per-project
 
 ```bash
-git clone https://github.com/<your-username>/product-requirements-review.git \
+git clone https://github.com/fourierwang66666/product-requirements-review.git \
   .cursor/skills/product-requirements-review
 ```
 
